@@ -31,8 +31,7 @@ Currently in my **4th year**, I focus on building meaningful projects in:
 ---
 
 🎯 **What I'm working on**  
-- 🚀 **FinTrack** – AI-powered personal finance tracker with insights & budgeting  
-- 📄 **Resume Analyzer** – Intelligent resume matching using NLP (TF-IDF + BERT)  
+- 🚀 **FinTrack** – AI-powered personal finance tracker with insights & budgeting    
 - 🧪 Exploring Generative AI, LLMs, and ML Ops  
 - 📝 Preparing for placements & sharpening my DSA in Java
 
