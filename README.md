@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Vaishali Singh</h1>
-<h3 align="center">CSE (Data Science) Student | Full-Stack Developer | ML & AI Enthusiast</h3>
+<h3 align="center">CSE (Data Science) Student | Full-Stack Developer | ML & AI </h3>
 
 ---
 
