@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Vaishali;AI%2FML+%26+Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Vaishali;AI%2FML+%26+Full-Stack+Engineer" alt="Typing SVG" />
 </div>
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Vaishali;AI%2FML+%26+Full-Stack+Engineer" alt="Typing SVG" />
+</div> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vaishali-singh-19776727a/">
